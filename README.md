@@ -1,5 +1,5 @@
 # COMP3925_Grp3_COVID19
-HKBU COMP3925 Group Project - COVID-19 Data Analysis (Python, PowerBI and Web Development)
+COMP3925 Group Project - COVID-19 Data Analysis (Python, PowerBI and Web Development)
 
 This is a group project for a course COMP3925: Data Analysis Studio. 
 
